@@ -1,0 +1,39 @@
+body {
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+    background-image: url(simplesmente-o-castelo-do-alek-em-extrema-mg-v0-7v8c1r4qyyla1.jpg);
+    background-size: cover;
+    
+}
+
+    * {
+        font-family:"Protest Revolution", sans-serif;
+    }
+    h2 {
+        color:rgb(25, 37, 214)
+    }
+    p {
+        color:rgb(0, 0, 0)
+    }
+
+    table {
+    border-collapse: collapse;
+}
+
+th{
+
+    background-color: #ffffff;
+}
+
+th,
+td{
+    border: 1px solid #1013ce
+    text-align: left;
+    padding: 8px
+
+}
