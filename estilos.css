@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffff;
+    background-color: #000000;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -21,19 +21,22 @@ body {
         color:rgb(0, 0, 0)
     }
 
-    table {
+table {
     border-collapse: collapse;
 }
 
 th{
 
-    background-color: #ffffff;
+    background-color: #000000;
 }
 
 th,
 td{
-    border: 1px solid #1013ce
+    border: 1px solid #000000
     text-align: left;
-    padding: 8px
-
+    padding: 8px;
+    color: #fff;
+}
+a{
+    color:#0c4cd6
 }
