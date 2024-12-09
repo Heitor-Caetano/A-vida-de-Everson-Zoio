@@ -6,7 +6,7 @@ body {
     height: 100vh;
     margin: 0;
     flex-direction: column;
-    background-image: url(simplesmente-o-castelo-do-alek-em-extrema-mg-v0-7v8c1r4qyyla1.jpg);
+    background-image: url();
     background-size: cover;
     
 }
@@ -15,10 +15,10 @@ body {
         font-family:"Protest Revolution", sans-serif;
     }
     h2 {
-        color:rgb(25, 37, 214)
+        color:rgb(253, 253, 253)
     }
     p {
-        color:rgb(0, 0, 0)
+        color:rgb(255, 255, 255)
     }
 
 table {
